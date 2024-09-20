@@ -87,7 +87,7 @@ _Event Details: 11/15/2024(금), offline 과학관 B130, 14:00~18:30_
 
 ### 킥오프미팅
 
-<img src="./img/kimjaewan.png" width="300" height="400"/>
+<img src="./assets/img/kimjaewan.png" width="300" height="400"/>
 
 #### 김재완, IBM Quantum(Korean lead, Quantum & Qiskit community)
 
@@ -238,7 +238,7 @@ _Event Details: 11/15/2024 (Fri), offline at Science Hall B130, 14:00–18:30_
 
 ### Kickoff Meeting
 
-<img src="./img/kimjaewan.png" width="300" height="400"/>
+<img src="./assets/img/kimjaewan.png" width="300" height="400"/>
 
 #### Kim Jaewan, IBM Quantum (Korean lead, Quantum & Qiskit community)
 
