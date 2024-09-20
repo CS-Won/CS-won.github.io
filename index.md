@@ -87,7 +87,7 @@ _Event Details: 11/15/2024(금), offline 과학관 B130, 14:00~18:30_
 
 <img src="/assets/img/kimjaewan.jpg" width="300" height="400"/>
 
-#### 김재완, IBM Quantum(Korean lead, Quantum & Qiskit community)
+#### 김재완, 고등과학원 KIAS(Korean Institute of Advances Science) 부원장
 
 _11/1/2024(금) 14:00_
 
@@ -238,7 +238,8 @@ _Event Details: 11/15/2024 (Fri), offline at Science Hall B130, 14:00–18:30_
 
 <img src="/assets/img/kimjaewan.jpg" width="300" height="400"/>
 
-#### Kim Jaewan, IBM Quantum (Korean lead, Quantum & Qiskit community)
+#### Kim Jaewan, Deputy Director of Research Institute KIAS(Korean Institute of Advances Science)
+
 
 _11/1/2024 (Fri) 14:00_
 
