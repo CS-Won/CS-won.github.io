@@ -2,7 +2,7 @@
 layout: page
 title: Qiskit Fall Fest 2024 in Yonsei
 subtitle: 환영합니다! 행사 안내 페이지입니다
-cover-img: /assets/img/yonsei.png
+cover-img: /assets/img/yonsei.jpg
 ---
 
 <br/>
