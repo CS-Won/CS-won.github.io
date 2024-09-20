@@ -1,13 +1,12 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Qiskit-Fall-Fest-2024YU
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
-
+description: Qiskit Fall Fest 2024 in Yonsei University
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Seokwon Choi, Hyeongmin Lim
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -21,7 +20,7 @@ navbar-links:
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/seokho-square-2.jpg"
+avatar: "/assets/img/yonseilogo.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
@@ -36,9 +35,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
+  email: "seokwon0106@yonsei.ac.kr"
+  #facebook: seokho.son.korea
+  github: CS-Won
   linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
