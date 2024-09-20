@@ -56,8 +56,6 @@ _Session Details: 11/7/2024(화), offline 과학관 B130, 7:00~9:00 PM_
 
 이번 강연에서는 IBM 박소미 차장님께서, 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지, 그리고 양자컴퓨터 관련된 연구분야는 어떠한 것들이 있는지 소개해드릴 예정입니다. 양자정보과학 분야에서 연구하시는 연구원분께서 진행하고 계신 분야에 대한 소개 및 양자컴퓨터를 사용하여 진행하였던 재미있는 프로젝트에 대해 말씀해주실 예정입니다.
 
-이 시간에 저희는 양자 텔레포테이션(Quantum Teleportation), 그로버 알고리즘(Grover's Algorithm) 내용도 다룹니다.
-
 ### 💡Qiskit Fall Fest 워크숍 2: Qiskit 사용 방법💡
 
 _Session Details: 11/11/2024(토), online, 7:00~9:00 PM_
@@ -87,7 +85,7 @@ _Event Details: 11/15/2024(금), offline 과학관 B130, 14:00~18:30_
 
 ### 킥오프미팅
 
-<img src="/assets/img/kimjaewan.png" width="300" height="400"/>
+<img src="/assets/img/kimjaewan.jpg" width="300" height="400"/>
 
 #### 김재완, IBM Quantum(Korean lead, Quantum & Qiskit community)
 
@@ -197,15 +195,15 @@ We look forward to meeting our participants at Qiskit Fall Festival at Yonsei Un
 
 ---
 
-### 💡 Workshop 2: What Can Quantum Computers Do?  
+### 💡 Lecture : What Can Quantum Computers Do?  
 - **Date:** 11/4/2024 (Mon), 7:00 PM – 9:00 PM  
 - **Location:** 과학관 B130 (Offline)  
 - **Details:**  
-  This session will introduce the various applications of quantum computing and ongoing research in the field. Guest researchers will present exciting quantum computing projects they've worked on, with a focus on Quantum Teleportation and Grover's Algorithm.
+In this lecture, IBM Deputy Director Park So-mi will introduce what we can do using quantum computers and what research fields related to quantum computers are available. A researcher working on quantum information science will introduce the field you are working on and tell you about an interesting project you have done using quantum computers.
 
 ---
 
-### 💡 Workshop 3: Using Qiskit  
+### 💡 Workshop 2: Using Qiskit  
 - **Date:** 11/6/2024 (Wed), 7:00 PM – 9:00 PM  
 - **Location:** Online (Zoom)  
 - **Details:**  
@@ -213,7 +211,7 @@ We look forward to meeting our participants at Qiskit Fall Festival at Yonsei Un
 
 ---
 
-### 💡 Workshop 4: Preparing for the Challenge  
+### 💡 Workshop 3: Preparing for the Challenge  
 - **Date:** 11/8/2024 (Fri), 7:00 PM – 9:00 PM  
 - **Location:** Online (Zoom)  
 - **Details:**  
@@ -238,7 +236,7 @@ _Event Details: 11/15/2024 (Fri), offline at Science Hall B130, 14:00–18:30_
 
 ### Kickoff Meeting
 
-<img src="/assets/img/kimjaewan.png" width="300" height="400"/>
+<img src="/assets/img/kimjaewan.jpg" width="300" height="400"/>
 
 #### Kim Jaewan, IBM Quantum (Korean lead, Quantum & Qiskit community)
 
