@@ -9,7 +9,7 @@ cover-img: /assets/img/yonsei.jpg
 
 ## About the Festival
 
-Qiskif Fall Fest at yonsei University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 연세대학교 양자정보과학 학술동아리 QUICK(QUantum Information Club at Yonsei University)에서 주최합니다. 이 행사는 연세대학교 학생들만을 위한 행사입니다!
+Qiskif Fall Fest at yonsei University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 연세대학교 IQIT(양자정보기술연구원)의 지원을 받아 연세대학교 학부생들이 주최하는 행사입니다!
 
 Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양자 회로를 설계할 수 있도록 설계된 IBM이 개발한 오픈 소스 양자 컴퓨팅 프레임워크입니다.
 
@@ -153,7 +153,7 @@ _11/7/2024(화) 19:00_
 
 ## About the Festival
 
-This is the Qiskif Fall Fest at Yonsey University event information page. Thank you for watching this page with interest! This event is hosted by the Quantum Information Club at Yonsey University with the help of IBM Quantum. This event is just for Yonsei University students!
+Thank you for your interest and viewing this page! This is the Qiskif Fall Fest at yonsei University event information page. This event is organized by Yonsei University undergraduate students with the help of IBM Quantum and the support of Yonsei University's IQIT!
 
 Qiskit is an open-source quantum computing framework developed by IBM designed to allow access to quantum computers and design quantum circuits via cloud systems.
 
