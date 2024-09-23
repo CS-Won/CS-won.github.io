@@ -98,6 +98,8 @@ _11/1/2024(금) 14:00_
 
 ### 워크숍2
 
+<img src="/assets/img/ParkSoMin.jpg" width="300" height="300"/>
+
 #### 박소미, IBM 차장, 초빙예정
 
 _11/7/2024(화) 19:00_
@@ -249,6 +251,7 @@ _11/1/2024 (Fri) 14:00_
 - Overview of Quantum Algorithm Theory
 
 ### Workshop 2
+<img src="/assets/img/ParkSoMin.jpg" width="300" height="300"/>
 
 #### Park Somi, Senior Manager, IBM (Guest Speaker)
 
